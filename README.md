@@ -3,6 +3,7 @@
 This repository accompanies my PhD dissertation:
 
 > **Leveraging Persuasion and Intent for Analysis and Reasoning-based Detection of Disinformation with Large Language Models**
+> 
 > Arkadiusz Modzelewski
 
 It serves as the **central index repository** for all software artifacts, datasets, and experimental frameworks developed as part of the dissertation.
