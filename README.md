@@ -96,7 +96,7 @@ EACL Main 2026 (Long Papers, accepted)
 
 Citation:
 
-```
+```bibtex
 @inproceedings{modzelewski-etal-2026-malint,
     title = "{MAL}icious {INT}ent Dataset and Inoculating {LLM}s for Enhanced Disinformation Detection",
     author = "Modzelewski, Arkadiusz and
