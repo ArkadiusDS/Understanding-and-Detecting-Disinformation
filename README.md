@@ -97,13 +97,20 @@ EACL Main 2026 (Long Papers, accepted)
 Citation:
 
 ```
-Arkadiusz Modzelewski, Witold Sosnowski, Eleni Papadopulos,
-Elisa Sartori, Tiziano Labruna, Giovanni Da San Martino,
-and Adam Wierzbicki. 2026.
-MALicious INTent Dataset and Inoculating LLMs for Enhanced Disinformation Detection.
-In Proceedings of the 19th Conference of the European Chapter of the
-Association for Computational Linguistics (Volume 1: Long Papers),
-Rabat, Morocco. Association for Computational Linguistics.
+@inproceedings{modzelewski-etal-2026-malint,
+    title = "{MAL}icious {INT}ent Dataset and Inoculating {LLM}s for Enhanced Disinformation Detection",
+    author = "Modzelewski, Arkadiusz and
+      Sosnowski, Witold and
+      Papadopulos, Eleni and
+      Sartori, Elisa and
+      Labruna, Tiziano and
+      Da San Martino, Giovanni and
+      Wierzbicki, Adam",
+    booktitle = "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics"
+}
 ```
 
 💻 Repository:
